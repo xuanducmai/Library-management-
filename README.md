@@ -7,4 +7,8 @@
   
   Booksdata.txt is books data is stored.
   
-  
+ NOTE:
+      
+    Date must be entered as Day enter Month enter Year enter. => dd/mm/yyyy.
+    I deleted data in Booksdata.txt and student.txt.
+    Admin password: 1718
